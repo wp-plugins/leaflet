@@ -1,0 +1,15 @@
+.fixed .column-id { width: 5%; }
+.fixed .column-layername { width: 10%; }
+.fixed .column-coords { width: 10%; }
+.fixed .column-icon { width: 10%; }
+.fixed .column-content { width: 35%; }
+
+.fixed .column-name { width: 15%; }
+
+.fixed .column-parameter { width: 20%; }
+.fixed .column-value { width: 80%; }
+
+div#selectlayer { width: 100%; height: 300px; }
+div#previewer { width: 96px; height: 96px; text-align: center; border: 1px solid lightgray; border-radius: 5px; }
+div#previewer div { margin-top: 50%; }
+img#preview { margin-top: -50%; }
